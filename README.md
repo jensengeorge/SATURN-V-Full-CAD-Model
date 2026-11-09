@@ -6,13 +6,21 @@
 
 An accurately dimensioned, detailed 3D CAD model of NASA's Saturn V rocket, independently designed and modeled in its entirety by **Jensen George** during participation in the NASA L'SPACE Academy program.
 
-![Saturn V Rocket Animation](SaturnV.gif)
+## CAD Animation
+
+![Saturn V Rocket Animation](images/SaturnV.gif)
 
 ## Project Overview
 
 Developed during my participation in NASA L'SPACE Academy, this project recreates the iconic Saturn V launch vehicle in a 3D CAD environment, emphasizing geometric accuracy, dimensional consistency, and detailed representation of the rocket's external structure.
 
 All CAD modeling was completed independently, with a focus on developing practical mechanical design and technical visualization skills.
+
+## Original Hand-Drawn Sketch
+
+The original conceptual sketch of the Saturn V rocket was **drawn entirely by hand by Jensen George**, serving as an initial visual reference for the subsequent 3D CAD modeling process.
+
+![Original Hand-Drawn Saturn V Sketch](images/SaturnV_Sketch.jpg)
 
 ## Engineering Focus
 
@@ -23,19 +31,19 @@ All CAD modeling was completed independently, with a focus on developing practic
 
 ## CAD Model Files
 
-The complete CAD model is available below for viewing and further examination.
+The original CAD model is available below for viewing and further examination.
 
-**[View Original Saturn V CAD Model](SaturnV.SLDPRT)**
+**[View Original Saturn V CAD Model](CAD/SaturnV.SLDPRT)**
 
-### Model Preview
+### Completed Model Preview
 
-![Saturn V CAD Model](SaturnV.png)
+![Completed Saturn V CAD Model](images/SaturnV.png)
 
 ## Project Gallery
 
-Additional renders and visualizations of the completed Saturn V model.
+Additional rendered views showcasing the completed Saturn V model.
 
-![Saturn V Additional View](SaturnV_View2.png)
+![Saturn V Additional View](images/SaturnV_View2.png)
 
 ## Author
 
