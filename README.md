@@ -2,7 +2,7 @@
 # Saturn V Rocket | 3D CAD Model
 
 **Program:** NASA L'SPACE Academy  
-**Role:** Student Researcher | Project Lead | CAD Design
+**Role:** Student Researcher | CAD Design
 
 An accurately dimensioned, detailed 3D CAD model of NASA's Saturn V rocket, independently designed and modeled in its entirety by **Jensen George** during participation in the NASA L'SPACE Academy program.
 
