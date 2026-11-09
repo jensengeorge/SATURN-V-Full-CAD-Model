@@ -1,18 +1,17 @@
-
 # Saturn V Rocket | 3D CAD Model
-
-## Rocket Stages & Assembly
-
-![Saturn V Rocket Stages](images/SaturnVStages.png)
-
-### Assembly Animation
-
-![Saturn V Assembly Animation](images/SaturnVGif.gif)
 
 **Program:** NASA L'SPACE Academy  
 **Role:** Student Researcher | CAD Design
 
 An accurately dimensioned, detailed 3D CAD model of NASA's Saturn V rocket, independently designed and modeled in its entirety by **Jensen George** during participation in the NASA L'SPACE Academy program.
+
+## Rocket Stages & Assembly
+
+![Exploded CAD view of the Saturn V rocket stages](images/SaturnVStages.png)
+
+### Assembly Visualization
+
+![Saturn V CAD assembly visualization](images/SaturnVGif.gif)
 
 ## Project Overview
 
@@ -24,7 +23,7 @@ All CAD modeling was completed independently, with a focus on developing practic
 
 The original conceptual sketch of the Saturn V rocket was **drawn entirely by hand by Jensen George**, serving as an initial visual reference for the subsequent 3D CAD modeling process.
 
-![Original Hand-Drawn Saturn V Sketch](images/SaturnVSketch.jpg)
+![Original Saturn V hand-drawn sketch by Jensen George](images/SaturnVSketch.jpg)
 
 ## Engineering Focus
 
@@ -35,15 +34,15 @@ The original conceptual sketch of the Saturn V rocket was **drawn entirely by ha
 
 ## Completed CAD Model
 
-The completed Saturn V CAD model features the assembled launch vehicle, including its individual stages, exterior geometry, and propulsion components.
-
-![Completed Saturn V CAD Model](images/SaturnV.jpg)
+![Fully assembled Saturn V CAD rocket](images/SaturnV.jpg)
 
 ## CAD Model Files
 
-The original CAD design files are available below for further examination.
+Upload the original CAD file(s) to a `CAD/` folder in this repository. Once uploaded, add a link here using the exact filename, for example:
 
-**[View Original Saturn V CAD Model](CAD/REPLACE_WITH_ACTUAL_FILENAME.SLDASM)**
+`[View Original Saturn V CAD Assembly](CAD/YourActualAssemblyFile.SLDASM)`
+
+If using a SolidWorks assembly, include any referenced component part files so the assembly can open correctly.
 
 ## Author
 
