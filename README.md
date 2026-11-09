@@ -38,11 +38,7 @@ The original conceptual sketch of the Saturn V rocket was **drawn entirely by ha
 
 ## CAD Model Files
 
-Upload the original CAD file(s) to a `CAD/` folder in this repository. Once uploaded, add a link here using the exact filename, for example:
-
-`[View Original Saturn V CAD Assembly](CAD/YourActualAssemblyFile.SLDASM)`
-
-If using a SolidWorks assembly, include any referenced component part files so the assembly can open correctly.
+The entire CAD folder can be found in the SATURNVFULL folder.
 
 ## Author
 
